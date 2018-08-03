@@ -1,0 +1,3 @@
+networkx==2.1
+tqdm==4.24.0
+-e git+git@github.com:ScriptSmith/socialreaper.git@d00c84c2bcf15b0d4153b2b4ae81b84e1aaeeec9#egg=socialreaper
